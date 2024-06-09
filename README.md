@@ -81,6 +81,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, please open an issue on this repository or reach out to us on Discord.
 > Join my server discord ➫ [Yosed SMP](https://dsc.gg/yosedsmp)
+> 
 > Join my community server discord ➫ [Chronoscraft](https://dsc.gg/chronoscraft)
 
 ---
