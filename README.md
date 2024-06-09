@@ -90,5 +90,5 @@ Join my community server discord ➫ [Chronoscraft](https://dsc.gg/chronoscraft)
 </p>
 
 <p align="center">
-  Made with ❤️ by [Your Name](https://github.com/yourusername)
+  Made with by [The Peaces](https://github.com/ThePeaces)
 </p>
