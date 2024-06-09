@@ -39,7 +39,7 @@ Follow these steps to get Economy Bot up and running on your server:
 
 1. **Clone the repository:**
     ```sh
-    https://github.com/ThePeaces/Economy-Bot.git
+    git clone https://github.com/ThePeaces/bot-economy.git
     cd Economy-Bot
     ```
 
